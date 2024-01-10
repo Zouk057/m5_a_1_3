@@ -9,7 +9,7 @@ public class Main {
         persones[0] = new Persona("Joan", 25);
         persones[1] = new Persona("Maria", 30);
         persones[2] = new Persona("Pepe", 40);
-        persones[3] = new Persona("Maria", 33);
+        persones[3] = new Persona("Pepa", 33);
       
 
         // Accedeix als objectes a l'array
